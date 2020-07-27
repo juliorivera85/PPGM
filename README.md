@@ -2,6 +2,7 @@
 niche modeling
 
 For detail read:
+
 Rivera, Lawing, and Marints (2020) Reconstructing historical shifts in suitable habitat of Sceloporus lineages using phylogenetic niche modeling. Journal of Biogeography.
 
 This is an R analysis that allows you to reconstruct suitable habitat for a species in North and Central America from 1 to 20 million years ago at 1 MY increments.
