@@ -1,5 +1,5 @@
 # PPGM
-niche modeling
+Basics on reconstructing ancestral suitable habitats
 
 For detail read:
 
